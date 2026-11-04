@@ -1,0 +1,23 @@
+# Secrets and personal data
+.env
+request_body.json
+data/
+*.apkg
+duolingo_first_response.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.part
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
